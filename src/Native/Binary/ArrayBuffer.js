@@ -14,3 +14,4 @@ return {
 }
 
 }()
+/* SHIM Native.BinaryArrayBuffer */
